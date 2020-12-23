@@ -1,0 +1,7 @@
+obj
+bin
+puzzle.fsproj
+.fake
+.ionide
+
+*.txt
