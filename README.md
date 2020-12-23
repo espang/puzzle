@@ -7,7 +7,7 @@ Solves 7x7 grids with following rules:
 * Use 1 once, 2 twice, ... , 7 7 times
 * Each row and column should contain 4 numbers
 * Each row and column sum should be 20
-* All numbers should be connected to one of the 4(!) adjacent sides
+* All numbers should be connected. A number is connected to the cell to its left, right, top and bottom
 * Every 2x2 grid in the 7x7 grid has at most 3 numbers
 * Each row and column can have constraints on the first and last 
   value in the row or column
